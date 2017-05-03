@@ -1,0 +1,13 @@
+/*body
+{
+  height: 768px;
+  width: 1152px;
+}*/
+#div_id_game_zone{
+  height: 768px;
+  width: 1152px;
+  background-color: lime;
+  margin: 20px;
+  
+  border: 4px groove lightblue;
+}
